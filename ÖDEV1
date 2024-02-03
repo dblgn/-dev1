@@ -1,5 +1,4 @@
-# -dev1
-pgadminödev1
+
 
 --SELECT title, description FROM film;
 
